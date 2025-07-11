@@ -15,10 +15,10 @@ This checklist outlines the current and upcoming features for the Inkr writing e
 
 ---
 
-## 🔤 Inline Formatting Features (Planned)
-- [ ] **Bold** selected text (via button or shortcut)
-- [ ] **Italic** selected text (via button or shortcut)
-- [ ] **Underline** selected text (optional)
+## 🔤 Inline Formatting Features (Planned) [broken, fixing before release to public, also want it to look prettier]
+- [x] **Bold** selected text (via button or shortcut)
+- [x] **Italic** selected text (via button or shortcut)
+- [x] **Underline** selected text (optional)
 - [ ] Keyboard shortcuts:  
   - [ ] Ctrl/Cmd + B = Bold  
   - [ ] Ctrl/Cmd + I = Italic  
