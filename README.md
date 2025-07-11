@@ -6,7 +6,7 @@ Inkr is your soon-to-be favorite place to write. It’s a clean, offline-friendl
 
 > Because writing shouldn’t cost a truck-ton of money, and authors aren’t walking banks.
 >
-> [💌 Follow updates on Substack]((https://wafflesandmangoes.substack.com/))
+> [💌 Follow updates on Substack](https://wafflesandmangoes.substack.com/)
 
 ---
 
