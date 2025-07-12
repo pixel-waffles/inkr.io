@@ -79,7 +79,7 @@ This checklist outlines the current and upcoming features for the Inkr writing e
 ---
 
 ## 💾 Save & Sync
-- [ ] Local autosave
+- [x] Local autosave
 - [ ] Optional sign-in to sync across devices (future)
 - [ ] Export to GitHub/Gist or backup to cloud (Google Drive, Dropbox, etc.)
 
