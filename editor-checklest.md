@@ -12,10 +12,12 @@ This checklist outlines the current and upcoming features for the Inkr writing e
 - [x] Tab key inserts spaces instead of moving focus
 - [x] Placeholder for empty editor
 - [x] Prevent weird selection issues when clicking empty space
+- [x] Title can be edited [NEW!]
+- [x] Undo/Redo buttons added [NEW!]
 
 ---
 
-## 🔤 Inline Formatting Features (Planned) [broken, fixing before release to public, also want it to look prettier]
+## 🔤 Inline Formatting Features (Planned) [now fixed, actually works.]
 - [x] **Bold** selected text (via button or shortcut)
 - [x] **Italic** selected text (via button or shortcut)
 - [x] **Underline** selected text (optional)
@@ -85,7 +87,7 @@ This checklist outlines the current and upcoming features for the Inkr writing e
 
 ## 🧪 In-Progress Dev Features (Current Sprint)
 - [ ] Floating formatting toolbar with `getSelection()`
-- [ ] Apply formatting using `document.execCommand()` or modern Range API
+- [x] Apply formatting using `document.execCommand()` or modern Range API
 - [ ] Responsive layout tuning
 - [ ] Keyboard shortcut handling
 
